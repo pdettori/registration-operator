@@ -1,0 +1,10 @@
+# The following values are all required to install the Klusterlet
+
+Image: quay.io/open-cluster-management/registration-operator:latest
+Cluster:
+  Name: 
+  APIServer: 
+Hub:
+  APIServer: 
+  CA: 
+  Token: 
