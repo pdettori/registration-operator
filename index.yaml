@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  klusterlet:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-22T14:00:53.116506539Z"
+    description: A Helm chart for Klusterlet
+    digest: 53c11646184479a4568f2162a9e4d440b003fde257269d944f0f3067873571c5
+    name: klusterlet
+    type: application
+    urls:
+    - https://github.com/pdettori/registration-operator/releases/download/klusterlet-0.1.1/klusterlet-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-09-22T14:00:52.980254555Z"
